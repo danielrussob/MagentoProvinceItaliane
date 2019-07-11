@@ -99,6 +99,7 @@ $province = array(
     'SI' => 'Siena',
     'SR' => 'Siracusa',
     'SO' => 'Sondrio',
+    'SU' => 'Sud Sardegna',
     'TA' => 'Taranto',
     'TE' => 'Teramo',
     'TR' => 'Terni',
